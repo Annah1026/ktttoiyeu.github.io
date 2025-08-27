@@ -1,5 +1,5 @@
 
-Cute Radio Drama (Kịch Truyền Thanh) — Hướng dẫn nhanh
+Kịch Truyền Thanh — Hướng dẫn nhanh
 
 1) Cài đặt
 - Tải file cute-radio-drama.zip và upload vào WordPress: Giao diện → Thêm mới → Tải giao diện lên → Kích hoạt.
